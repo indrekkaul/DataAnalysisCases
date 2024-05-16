@@ -19,4 +19,3 @@ The director has assigned to me the first question to answer: How do annual memb
    [Cyclistic's historical trip data is available here.](https://divvy-tripdata.s3.amazonaws.com/index.html)
 2. Analyse what format the data is. -> Data is divided 12 csv files with one month periods. Each file contains ~600 000 records.
    I desided to use R for clening and analyses.
-3. 
