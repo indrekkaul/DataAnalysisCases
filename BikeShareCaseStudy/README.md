@@ -3,7 +3,7 @@
 ## In R open "Bike Ride Case Stury.Rmd" file or follow the README.md
 
 ## Introduction
-This project analyzes the differences in usage patterns between casual riders and annual members of Cyclistic, a fictional bike-share company.
+This project analyzes the differences in usage patterns between casual riders and annual members of Cyclistic, a bike-share company.
 
 ## Scenario
 The director of marketing believes the company’s future success depends on maximizing the number of annual memberships.
